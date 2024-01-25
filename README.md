@@ -1,7 +1,7 @@
 # Getting-started-with-the-.NET-MAUI-Shimmer-control
 This sample demonstrate how to get started with the .NET MAUI Shimmer control.
 
-The [.NET MAUI Shimmer](https://www.syncfusion.com/maui-controls/maui-shimmer) control can be used to improve the responsiveness of an application by showing a modern shimmer effect when data is being loaded in the background. A quick-start example to help you how to add Syncfusion’s .NET MAUI Shimmer control to a .NET MAUI  project and work with the shimmer views and customization. The Syncfusion .NET MAUI Shimmer control increases an application’s responsiveness by displaying a shimmer effect while the content is loading in the background. There are several view types in the .NET MAUI Shimmer such as article, profile, video, and more. The control allows users to customize the wave’s color, width, direction, and animation duration.
+The [.NET MAUI Shimmer](https://www.syncfusion.com/maui-controls/maui-shimmer?utm_source=github&utm_medium=listing&utm_campaign=maui-shimmer-github-samples) control can be used to improve the responsiveness of an application by showing a modern shimmer effect when data is being loaded in the background. A quick-start example to help you how to add Syncfusion’s .NET MAUI Shimmer control to a .NET MAUI  project and work with the shimmer views and customization. The Syncfusion .NET MAUI Shimmer control increases an application’s responsiveness by displaying a shimmer effect while the content is loading in the background. There are several view types in the .NET MAUI Shimmer such as article, profile, video, and more. The control allows users to customize the wave’s color, width, direction, and animation duration.
 
 Watch the video: Coming soon...
 
@@ -17,7 +17,7 @@ If you are facing path too long exception when building this example project, cl
 ## Features and Benefits
 
 ### Built-in types
-Use different built-in shimmer types, such as article, circle persona, feed, profile, square persona, shopping, and video, in your application to create interesting shimmer effects.
+Use different [built-in](https://help.syncfusion.com/maui/shimmer/built-in-views?utm_source=github&utm_medium=listing&utm_campaign=maui-shimmer-github-samples) shimmer types, such as article, circle persona, feed, profile, square persona, shopping, and video, in your application to create interesting shimmer effects.
 
 ### Custom view
 Custom shimmer patterns in a variety of forms provide an alternative to the built-in shimmer types.
@@ -40,14 +40,12 @@ The appearance of a .NET MAUI Shimmer control is highly customizable.
 
 [Suggest a feature or report a bug](https://www.syncfusion.com/feedback/maui?utm_source=github&utm_medium=listing&utm_campaign=maui-shimmer-github-samples)
 
-[Online example](https://github.com/syncfusion/maui-demos/?utm_source=github&utm_medium=listing&utm_campaign=maui-shimmer-github-samples)
-
-[Knowledge base](https://support.syncfusion.com/kb/cross-platforms/section/1255?utm_source=github&utm_medium=listing&utm_campaign=maui-shimmer-github-samples)
+[Online example](https://github.com/syncfusion/maui-demos/tree/master/MAUI/Shimmer?utm_source=github&utm_medium=listing&utm_campaign=maui-shimmer-github-samples)
 
 
 ## About Syncfusion .NET MAUI Components
 
-Syncfusion's [.NET MAUI Shimmer](https://www.syncfusion.com/maui-controls/maui-shimmer?utm_source=github&utm_medium=listing&utm_campaign=maui-shimmer-github-samples) library is the only suite that you will ever need to build an application since it contains over 40 high-performance, lightweight, modular, and responsive UI controls in a single package. In addition to Shimmer, we provide popular .NET MAUI Controls such as [DataGrid](https://www.syncfusion.com/maui-controls/maui-datagrid?utm_source=github&utm_medium=listing&utm_campaign=maui-shimmer-github-samples), [Charts](https://www.syncfusion.com/maui-controls/maui-cartesian-charts?utm_source=github&utm_medium=listing&utm_campaign=maui-shimmer-github-samples), [ListView](https://www.syncfusion.com/maui-controls/maui-listview?utm_source=github&utm_medium=listing&utm_campaign=maui-shimmer-github-samples), and [Excel Library](https://www.syncfusion.com/document-processing/excel-framework/maui?utm_source=github&utm_medium=listing&utm_campaign=maui-shimmer-github-samples).
+Syncfusion's [.NET MAUI Controls](https://www.syncfusion.com/maui-controls?utm_source=github&utm_medium=listing&utm_campaign=maui-shimmer-github-samples) library is the only suite that you will ever need to build an application since it contains over 40 high-performance, lightweight, modular, and responsive UI controls in a single package. In addition to Shimmer, we provide popular .NET MAUI Controls such as [DataGrid](https://www.syncfusion.com/maui-controls/maui-datagrid?utm_source=github&utm_medium=listing&utm_campaign=maui-shimmer-github-samples), [Charts](https://www.syncfusion.com/maui-controls/maui-cartesian-charts?utm_source=github&utm_medium=listing&utm_campaign=maui-shimmer-github-samples), [ListView](https://www.syncfusion.com/maui-controls/maui-listview?utm_source=github&utm_medium=listing&utm_campaign=maui-shimmer-github-samples), and [Excel Library](https://www.syncfusion.com/document-processing/excel-framework/maui?utm_source=github&utm_medium=listing&utm_campaign=maui-shimmer-github-samples).
 
 ## About Syncfusion
 
