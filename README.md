@@ -1,7 +1,9 @@
 # Getting-started-with-the-.NET-MAUI-Shimmer-control
 This sample demonstrate how to get started with the .NET MAUI Shimmer control.
 
-The [.NET MAUI Shimmer](https://www.syncfusion.com/maui-controls/maui-shimmer?utm_source=github&utm_medium=listing&utm_campaign=maui-shimmer-github-samples) control can be used to improve the responsiveness of an application by showing a modern shimmer effect when data is being loaded in the background. A quick-start example to help you how to add Syncfusion’s .NET MAUI Shimmer control to a .NET MAUI  project and work with the shimmer views and customization. The Syncfusion .NET MAUI Shimmer control increases an application’s responsiveness by displaying a shimmer effect while the content is loading in the background. There are several view types in the .NET MAUI Shimmer such as article, profile, video, and more. The control allows users to customize the wave’s color, width, direction, and animation duration.
+The [.NET MAUI Shimmer](https://www.syncfusion.com/maui-controls/maui-shimmer?utm_source=github&utm_medium=listing&utm_campaign=maui-shimmer-github-samples) control can be used to improve the responsiveness of an application by showing a modern shimmer effect when data is being loaded in the background. This project helps you to add .NET MAUI Shimmer control and work with the views and customization. Users can customize the wave's color, width, direction, and animation duration for various view types such as article, profile, video, and more.
+.NET MAUI Shimmer Control | Syncfusion
+The .NET MAUI Shimmer control is a powerful control that enhances user experience by adding visually appealing effects to the application's user interface.
 
 Watch the video: Coming soon...
 
