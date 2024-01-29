@@ -23,7 +23,7 @@ Use different [built-in](https://help.syncfusion.com/maui/shimmer/built-in-views
 Custom shimmer patterns in a variety of forms provide an alternative to the built-in shimmer types.
 
 ### Customization
-The appearance of a .NET MAUI Shimmer control is highly customizable.
+The .NET MAUI Shimmer control provides extensive [customization](https://help.syncfusion.com/maui/shimmer/customization) options for a visually stunning appearance. Users can effortlessly adjust the fill and wave colors, wave  direction, and animation durations to achieve the desired visual effect, resulting in a highly customized and engaging user experience.
 
 ## Related links
 [Learn More about .NET MAUI Shimmer](https://www.syncfusion.com/maui-controls/maui-shimmer?utm_source=github&utm_medium=listing&utm_campaign=maui-shimmer-github-samples)
