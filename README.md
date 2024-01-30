@@ -23,7 +23,7 @@ Use different [built-in](https://help.syncfusion.com/maui/shimmer/built-in-views
 Custom shimmer patterns in a variety of forms provide an alternative to the built-in shimmer types.
 
 ### Customization
-The .NET MAUI Shimmer control provides extensive [customization](https://help.syncfusion.com/maui/shimmer/customization) options for a visually stunning appearance. Users can effortlessly adjust the fill and wave colors, wave  direction, and animation durations to achieve the desired visual effect, resulting in a highly customized and engaging user experience.
+The .NET MAUI Shimmer control provides extensive [customization](https://help.syncfusion.com/maui/shimmer/customization?utm_source=github&utm_medium=listing&utm_campaign=maui-shimmer-github-samples) options for a visually stunning appearance. Users can effortlessly adjust the fill and wave colors, wave  direction, and animation durations to achieve the desired visual effect, resulting in a highly customized and engaging user experience.
 
 ## Related links
 [Learn More about .NET MAUI Shimmer](https://www.syncfusion.com/maui-controls/maui-shimmer?utm_source=github&utm_medium=listing&utm_campaign=maui-shimmer-github-samples)
@@ -47,7 +47,7 @@ The .NET MAUI Shimmer control provides extensive [customization](https://help.sy
 
 Syncfusion's [.NET MAUI Controls](https://www.syncfusion.com/maui-controls?utm_source=github&utm_medium=listing&utm_campaign=maui-shimmer-github-samples) library is the only suite that you will ever need to build an application since it contains over 40 high-performance, lightweight, modular, and responsive UI controls in a single package. In addition to Shimmer, we provide popular .NET MAUI Controls such as [DataGrid](https://www.syncfusion.com/maui-controls/maui-datagrid?utm_source=github&utm_medium=listing&utm_campaign=maui-shimmer-github-samples), [Charts](https://www.syncfusion.com/maui-controls/maui-cartesian-charts?utm_source=github&utm_medium=listing&utm_campaign=maui-shimmer-github-samples), [ListView](https://www.syncfusion.com/maui-controls/maui-listview?utm_source=github&utm_medium=listing&utm_campaign=maui-shimmer-github-samples), and [Excel Library](https://www.syncfusion.com/document-processing/excel-framework/maui?utm_source=github&utm_medium=listing&utm_campaign=maui-shimmer-github-samples).
 
-## About Syncfusion
+### About Syncfusion
 
 Founded in 2001 and headquartered in Research Triangle Park, N.C., Syncfusion has more than 29,000 customers and more than 1 million users, including large financial institutions, Fortune 500 companies, and global IT consultancies.
 
