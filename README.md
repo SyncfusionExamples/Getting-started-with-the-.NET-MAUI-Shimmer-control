@@ -7,7 +7,7 @@ Watch the video: Coming soon...
 
 ## <a name="requirements-to-run-the-demo"></a>Requirements to run the demo ##
 
-To run the sample demo, refer to [System Requirements for .NET MAUI.](https://help.syncfusion.com/maui/system-requirements)
+To run the sample demo, refer to [System Requirements for .NET MAUI.](https://help.syncfusion.com/maui/system-requirements?utm_source=github&utm_medium=listing&utm_campaign=maui-shimmer-github-samples)
 
 ## <a name="troubleshooting"></a>Troubleshooting ##
 ### Path too long exception
