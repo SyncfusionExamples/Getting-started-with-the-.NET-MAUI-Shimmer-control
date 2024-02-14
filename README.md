@@ -34,13 +34,13 @@ The .NET MAUI Shimmer control provides extensive [customization](https://help.sy
 
 [Documentation](https://help.syncfusion.com/maui/shimmer/getting-started?utm_source=github&utm_medium=listing&utm_campaign=maui-shimmer-github-samples)
 
-[View Demos](https://github.com/SyncfusionExamples/Getting-started-with-the-.NET-MAUI-Shimmer-control?utm_source=github&utm_medium=listing&utm_campaign=maui-shimmer-github-samples)
+[View Demos](https://github.com/syncfusion/maui-demos/tree/master/MAUI/Shimmer?utm_source=github&utm_medium=listing&utm_campaign=maui-shimmer-github-samples)
 
 [Community Forums](https://www.syncfusion.com/forums/maui?utm_source=github&utm_medium=listing&utm_campaign=maui-shimmer-github-samples)
 
 [Suggest a feature or report a bug](https://www.syncfusion.com/feedback/maui?utm_source=github&utm_medium=listing&utm_campaign=maui-shimmer-github-samples)
 
-[Online example](https://github.com/syncfusion/maui-demos/tree/master/MAUI/Shimmer?utm_source=github&utm_medium=listing&utm_campaign=maui-shimmer-github-samples)
+[Online example](https://github.com/SyncfusionExamples/Getting-started-with-the-.NET-MAUI-Shimmer-control?utm_source=github&utm_medium=listing&utm_campaign=maui-shimmer-github-samples)
 
 
 ## About Syncfusion .NET MAUI Components
